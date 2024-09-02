@@ -1,4 +1,4 @@
-package com.ohgiraffers.restapi.section03.valid;
+package org.example.restapi.section03.valid;
 
 public class UserNotFoundException extends Exception {
 

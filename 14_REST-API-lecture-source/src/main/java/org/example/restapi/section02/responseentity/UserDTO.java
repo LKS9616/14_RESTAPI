@@ -1,4 +1,4 @@
-package com.ohgiraffers.restapi.section02.responseentity;
+package org.example.restapi.section02.responseentity;
 
 import java.time.LocalDate;
 
